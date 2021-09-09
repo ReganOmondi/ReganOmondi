@@ -5,6 +5,6 @@
 - 📫 How to reach me: 《 ultimateplanner1@gmail.com /》
 
 <!---
-ReganOmondi/ReganOmondi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ReganOmondi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
